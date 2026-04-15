@@ -1,21 +1,28 @@
 belt,one_step_no,step_no,strike_kick_block
-White,1,1,L High Block
-White,1,2,R Reverse Punch
-White,1,3,R #2 Front Kick
-White,2,1,L Muscle Block
-White,2,2,L Back Fist
-White,2,3,L #1 Side Kick
-White,3,1,L Crescent Kick
-White,3,2,R #1 Side Kick
-White,3,3,R Knife Hand Strike
-Yellow,1,1,L #1 Front Kick
-Yellow,1,2,L Outer Forearm Block
-Yellow,1,3,R Reverse Punch
-Yellow,1,4,R #2 Round Kick
-Yellow,2,1,L Crescent Kick
-Yellow,2,2,R #1 Front Kick
-Yellow,2,3,R #1 Round Kick
-Yellow,2,4,Spin Side Kick
+White,1,0,Jab
+White,1,1,Step forward with a high block
+White,1,2,Reverse punch
+White,1,3,#2 front kick
+White,2,0,#3 side kick
+White,2,1,Slide step back with cover guard
+White,2,2,Front hand back fist
+White,2,3,#1 side kick
+White,3,0,#2 front kick
+White,3,1,Step to a 45° angle
+White,3,2,Reverse low block
+White,3,3,#2 outside crescent kick
+White,3,4,#1 side kick
+White,3,5,Front hand knife hand strike
+Yellow,1,0,Jab
+Yellow,1,1,Step forward with a front hand outside block
+Yellow,1,2,Backfist
+Yellow,1,3,#1 round kick
+Yellow,1,4,Spin side kick
+Yellow,2,0,#3 side kick
+Yellow,2,1,Slide step back with cover guard
+Yellow,2,2,#2 front/round kick
+Yellow,2,3,Front hand hook punch
+Yellow,2,4,Reverse punch
 Yellow,3,1,R Outside Block
 Yellow,3,2,R Backfist
 Yellow,3,3,R #1 Side Kick
